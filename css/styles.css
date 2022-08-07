@@ -21,7 +21,7 @@ header {
 
 main {
     height: 94vh;
-    background-image: url(/img/a380.jpg);
+    background-image: url(../img/a380.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
